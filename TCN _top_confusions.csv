@@ -1,0 +1,7 @@
+True label,Pred label,True activity,Pred activity,Count (samples)
+0,14,sitting (A0),cycling on an exercise bike in horizontal (A14),60
+1,7,standing (A1),moving around in an elevator (A7),60
+6,7,standing in an elevator still (A6),moving around in an elevator (A7),58
+10,8,walking with slop on a treadmill with a speed of 4 km/h(A10),walking in a parking lot (A8),41
+5,7,descending stairs (A5),moving around in an elevator (A7),40
+8,12,walking in a parking lot (A8),exercising on a stepper (A12),30

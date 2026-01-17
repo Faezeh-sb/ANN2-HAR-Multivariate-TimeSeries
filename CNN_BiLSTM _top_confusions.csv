@@ -1,0 +1,7 @@
+True label,Pred label,True activity,Pred activity,Count (samples)
+8,18,walking in a parking lot (A8),playing basketball (A18),60
+10,9,walking with slop on a treadmill with a speed of 4 km/h(A10),walking on a flat treadmill with a speed of 4 km/h(A9),59
+1,7,standing (A1),moving around in an elevator (A7),59
+6,7,standing in an elevator still (A6),moving around in an elevator (A7),58
+5,7,descending stairs (A5),moving around in an elevator (A7),48
+13,18,exercising on a cross trainer (A13),playing basketball (A18),42
