@@ -41,6 +41,8 @@ Evaluation includes accuracy, macro-precision/recall/F1, confusion matrices, and
 - **Optimizer:** Adam, multi-class cross-entropy  
 - **Metrics:** Accuracy, Macro Precision/Recall/F1, confusion matrices (counts/normalized), top confusions
 
+- **results correspond to the final run**
+
 ## How to run
 ### Option A: Run the notebook (recommended)
 1. Clone the repository:
